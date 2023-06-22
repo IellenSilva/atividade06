@@ -1,0 +1,7 @@
+C:\Users\iellen.sdanaga\source\repos\atividadeaula6\atividadeaula6\bin\Debug\atividadeaula6.exe.config
+C:\Users\iellen.sdanaga\source\repos\atividadeaula6\atividadeaula6\bin\Debug\atividadeaula6.exe
+C:\Users\iellen.sdanaga\source\repos\atividadeaula6\atividadeaula6\bin\Debug\atividadeaula6.pdb
+C:\Users\iellen.sdanaga\source\repos\atividadeaula6\atividadeaula6\obj\Debug\atividadeaula6.csproj.AssemblyReference.cache
+C:\Users\iellen.sdanaga\source\repos\atividadeaula6\atividadeaula6\obj\Debug\atividadeaula6.csproj.CoreCompileInputs.cache
+C:\Users\iellen.sdanaga\source\repos\atividadeaula6\atividadeaula6\obj\Debug\atividadeaula6.exe
+C:\Users\iellen.sdanaga\source\repos\atividadeaula6\atividadeaula6\obj\Debug\atividadeaula6.pdb
